@@ -1,0 +1,8 @@
+﻿  3D prog.cpp
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(255,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(255,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(254,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(254,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(253,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(253,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  3D prog.vcxproj -> C:\Users\Захаров\source\repos\3D prog\Debug\3D prog.exe

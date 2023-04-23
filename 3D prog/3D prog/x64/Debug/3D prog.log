@@ -1,0 +1,11 @@
+﻿  3D prog.cpp
+C:\Users\Захаров\source\repos\3D prog\3D prog\olcConsoleGameEngine.h(645,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\olcConsoleGameEngine.h(985,1): warning C4267: return: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\olcConsoleGameEngine.h(1082,1): warning C4312: приведение типов: преобразование из "DWORD" в "olcConsoleGameEngine *" большего размера
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(255,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(255,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(254,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(254,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(253,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Захаров\source\repos\3D prog\3D prog\3D prog.cpp(253,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  3D prog.vcxproj -> C:\Users\Захаров\source\repos\3D prog\x64\Debug\3D prog.exe
